@@ -9,4 +9,5 @@ tags: Conference, Location
 author: Sion Bayliss and Jordi Paps Montserrat
 ---
 
-Genome Science Conference will be returning in 2024 with a new venue, The University of Bristol. The conference will be taking place on the 16-18th July 2024. Please indicate your interest in attending by submitting your response to the Google Form below: PLACEHOLDER
+Genome Science Conference will be returning in 2024 with a new venue, The University of Bristol. The conference will be taking place on the 16-18th July 2024. Please indicate your interest in attending by submitting your response to the Google Form [here](https://docs.google.com/forms/d/e/1FAIpQLSe27sq9AEDcFMqv2QL_c-kgK3RLTV8Tbr4u_6EiEVmT-WGPMA/viewform?usp=sf_link).
+
