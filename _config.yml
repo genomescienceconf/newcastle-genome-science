@@ -21,8 +21,8 @@ author: Sion Bayliss
 
 navbar-links:
   Home: "index"
-#  Keynote Speakers: "keynotes"
-#  Programme: "programme"
+  Keynote Speakers: "keynotes"
+  Programme: "programme"
 #  Venue and Dinner: "venue"
   Register: "register"
   Venue: "venue"
