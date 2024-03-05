@@ -21,14 +21,14 @@ author: Sion Bayliss
 
 navbar-links:
   Home: "index"
-  Keynote Speakers: "keynotes"
-  Programme: "programme"
-#  Venue and Dinner: "venue"
   Register: "register"
+  Speakers: "keynotes"
+  Programme: "programme"
   Venue: "venue"
+#  Dinner: "dinner"
 #  Abstracts: "abstracts"
-  Organising committee: "committee"
-#  Access and Carers: "access"
+  Organisers: "committee"
+  Accessibility: "access"
 #  Sponsors: "sponsors"
 
 ################
