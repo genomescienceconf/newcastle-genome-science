@@ -12,7 +12,7 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 
 There are various registration options - some are time limited so sign up soon or miss out!
 
-Register here - __*****__ - Link to follow
+Register here - [EasyBook](https://events.eazybook.com/genomescience2024)
 
 Student - Limited Spaces **(NOTE: we will require proof of status when you come to the conference)**: 
 - Student Early Bird (£220) - Available until April 30th, 2024 - __sign up soon__

@@ -10,13 +10,14 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 
 - __Richard Durbin (University of Cambridge)__ [Keynote]
 - __Matt Brown (Chief Scientific Officer, Genomics England)__ [Keynote]
-- __Illumina Inc. (Speaker TBA)__ [Evolving Technologies]
+- __Jason Betley (Illumina)__ [Evolving Technologies]
 - __Shawn Levy (CSO, Element Biosciences)__ [Evolving Technologies]
 - __Lucy Birkitt-Gray (500k Genomes Project)__ [Human & Clinical Genomics]
 - __Sandi Deans (University of Edinburgh)__ [Human & Clinical Genomics]
 - __Mike Hubank (The Royal Marsden NHS Foundation Trust)__ [Human & Clinical Genomics]
 - __Deborah Williamson (UK Health Security Agency)__ [Microbes and Microbiomes]
 - __Antonio Fernandez Guerra (University of Copenhagen)__ [Microbes and Microbiomes]
+- __Titus Brown (University of California, Davis)__ [Bioinformatics & Machine Learning in Genomics]
 
 # Provisional Programme
 
@@ -64,7 +65,7 @@ __Start__|__End__|__Session__
 
 ### Thursday 18th July 2024
 
-__Start__|__End__|__Session__|__Confirmed Speakers__
+__Start__|__End__|__Session__
 -------|-------|-------|-------
 **_9:00_** | **_11:00_**|__Single Cell Genomics__
 **_11:30_** | **_12:30_**|__Keynotes__
