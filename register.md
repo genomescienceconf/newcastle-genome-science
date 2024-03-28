@@ -15,7 +15,7 @@ There are various registration options - some are time limited so sign up soon o
 Register here - [EasyBook](https://events.eazybook.com/genomescience2024)
 
 Student - Limited Spaces **(NOTE: we will require proof of status when you come to the conference)**: 
-- Student Early Bird (£220) - Available until April 30th, 2024 - __sign up soon__
+- Student Early Bird (£225) - Available until April 30th, 2024 - __sign up soon__
 - Student (£250) - Student Registration Price We will require proof of status when you come to the conference.
 
 Delegate:
@@ -32,5 +32,5 @@ All of the above packages include attendance for all three days, morning pastrie
 The conference dinner will take place in the Harbour Hotel, Bristol. This is a ticketed event so please pick up your ticket during registration to join us in this beautiful venue.
 
 ## Accomodation
-We are offering campus accommodation at [@33](https://www.bristol.ac.uk/accommodation/about/residences/accommodation-at-thirty-three/) for £57 per night (ensuite) or at [Goldney Hall](https://www.bristol.ac.uk/accommodation/about/residences/goldney/) at £50 per night (shared facilities + breakfast). This can be purchased during registration. We have also provided a web-portal to book alternative accommodation.
+We are offering campus accommodation at [@33](https://www.bristol.ac.uk/accommodation/about/residences/accommodation-at-thirty-three/) for $60 per night (ensuite) or at [Goldney Hall](https://www.bristol.ac.uk/accommodation/about/residences/goldney/) at £55 per night (shared facilities + breakfast). This can be purchased during registration. We have also provided a web-portal to book alternative accommodation.
 
