@@ -31,5 +31,5 @@ All of the above packages include attendance for all three days, morning pastrie
 The conference dinner will take place in the Harbour Hotel, Bristol. This is a ticketed event so please pick up your ticket during registration to join us in this beautiful venue.
 
 ## Accomodation
-We are offering campus accommodation at [@33](https://www.bristol.ac.uk/accommodation/about/residences/accommodation-at-thirty-three/) for $60 per night (ensuite) or at [Goldney Hall](https://www.bristol.ac.uk/accommodation/about/residences/goldney/) at £55 per night (shared facilities + breakfast). This can be purchased during registration. The registration webpage also provides other alternative external accommodation choices.
+We are offering campus accommodation at [@33](https://www.bristol.ac.uk/accommodation/about/residences/accommodation-at-thirty-three/) for £60 per night (ensuite) or at [Goldney Hall](https://www.bristol.ac.uk/accommodation/about/residences/goldney/) at £55 per night (shared facilities + breakfast). This can be purchased during registration. The registration webpage also provides other alternative external accommodation choices.
 
