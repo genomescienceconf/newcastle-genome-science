@@ -10,4 +10,4 @@ author: Sion Bayliss and Jordi Paps Montserrat
 excerpt: "Genome Science will be returning on 16-18th July 2024 with a new venue, The University of Bristol. Please register via the registration tab in the top right of web-page."
 ---
 
-Genome Science will be returning on 16-18th July 2024 with a new venue, The University of Bristol. Please register via the registration tab in the top right of web-page or clicking here - ***
+Genome Science will be returning on 16-18th July 2024 with a new venue, The University of Bristol. Please register via the registration tab in the top right of web-page or clicking here - [Register](https://events.eazybook.com/genomescience2024)

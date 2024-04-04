@@ -14,6 +14,8 @@ There are various registration options - some are time limited so sign up soon o
 
 Register here - [EasyBook](https://events.eazybook.com/genomescience2024)
 
+__Abstract Submission__ will follow shortly
+
 Student - Limited Spaces **(NOTE: we will require proof of status when you come to the conference)**: 
 - Student Early Bird (£225) - Available until April 30th, 2024 - __sign up soon__
 - Student (£250) - Student Registration Price We will require proof of status when you come to the conference.
