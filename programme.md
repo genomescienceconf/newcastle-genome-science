@@ -17,7 +17,6 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 - __Mike Hubank (The Royal Marsden NHS Foundation Trust)__ [Human & Clinical Genomics]
 - __Deborah Williamson (UK Health Security Agency)__ [Microbes and Microbiomes]
 - __Antonio Fernandez Guerra (University of Copenhagen)__ [Microbes and Microbiomes]
-- __Titus Brown (University of California, Davis)__ [Bioinformatics & Machine Learning in Genomics]
 
 # Provisional Programme
 

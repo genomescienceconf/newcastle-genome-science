@@ -14,6 +14,11 @@ There are various registration options - some are time limited so sign up soon o
 
 Register here - [EasyBook](https://events.eazybook.com/genomescience2024)
 
+__Deadlines__
+- April 30th, 2024 - Early Bird registration closes
+- May 24th, 2024 - Abstract submissions close
+- June 24th, 2024 - Registration closes
+
 __Abstract Submission__ will follow shortly
 
 Student - Limited Spaces **(NOTE: we will require proof of status when you come to the conference)**: 
