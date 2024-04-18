@@ -6,17 +6,24 @@ use-site-title: true
 bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 ---
 
-# Confirmed Speaker List
+# Confirmed Academic Speaker List
 
 - __Richard Durbin (University of Cambridge)__ [Keynote]
 - __Matt Brown (Chief Scientific Officer, Genomics England)__ [Keynote]
-- __Jason Betley (Illumina)__ [Evolving Technologies]
-- __Shawn Levy (CSO, Element Biosciences)__ [Evolving Technologies]
 - __Lucy Birkitt-Gray (500k Genomes Project)__ [Human & Clinical Genomics]
+- __Deborah Williamson (UK Health Security Agency)__ [Microbes and Microbiomes]
 - __Sandi Deans (University of Edinburgh)__ [Human & Clinical Genomics]
 - __Mike Hubank (The Royal Marsden NHS Foundation Trust)__ [Human & Clinical Genomics]
-- __Deborah Williamson (UK Health Security Agency)__ [Microbes and Microbiomes]
 - __Antonio Fernandez Guerra (University of Copenhagen)__ [Microbes and Microbiomes]
+- __Peter Holland (University of Oxford)__[Evolutionary Genomics]
+
+# Confirmed Industrial Speaker List
+
+- __Jason Betley (Illumina)__ [Evolving Technologies]
+- __Shawn Levy (CSO, Element Biosciences)__ [Evolving Technologies]
+- __PacBio__
+- __ONT__
+- __Ultima__ 
 
 # Provisional Programme
 

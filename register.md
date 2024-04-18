@@ -8,6 +8,10 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 
 # Registration
 
+## Abstract Submission 
+
+Abstract submission is now open for short talks and poster presentations at Genome Science 2024. Register your interest via the [Abstract Submission Portal](https://www.genomescienceconference.com/). Note that this is separate from the registering for the conference (see below). Registration will be a requirement for accepted presentations.
+
 ## Registration Options
 
 There are various registration options - some are time limited so sign up soon or miss out!
