@@ -19,8 +19,8 @@ In the past Richard has led a number of large scale genomics projects, including
 ## Professor Deborah Williamson
 
 ![Deborah Williamson](/assets/img/Deborah-Williamson.jpg){:width="250" style="float: left; padding: 15px"}
-Professor Deborah Williamson is a Clinical and Public Health Microbiologist, Director of Microbiology at the Royal Melbourne Hospital, Deputy Director of the Microbiological Diagnostic Unit Public Health Laboratory at the Doherty Institute, and a laboratory head in the Department of Microbiology and Immunology at the University of Melbourne. She is Co-Head of Public Health at the Doherty Institute, and co-chair of the Communicable Diseases Genomics Network.
-Her research group at the Doherty Institute focuses on the application of genomic technologies to public health, with a strong focus on antimicrobial-resistant pathogens. Professor Williamson is an NHMRC Investigator Grant recipient, who has published over 130 papers since 2011. She received the Vice Chancellors’ Award for best Doctoral Thesis at the University of Auckland in 2016 for her PhD on bacterial genomics, and a L’Oreal-UNESCO Women in Science Fellowship in 2017. She is a member of the Editorial Board of Microbial Genomics, and is regularly invited nationally and internationally to speak on the application of genomics to public health.
+
+Professor Deborah Williamson is a clinical and public health microbiologist, and Director of Microbiology and Laboratories at the UK Health Security Agency.  She was formerly Director of the Victorian Infectious Diseases Reference Laboratory and Professor of Public Health Microbiology at the Doherty Institute, University of Melbourne. She has published over 280 papers in areas such as genomics, diagnostics, and emerging infectious diseases. Her work across public health laboratories, academia and government has directly influenced the way microbiology is applied to clinical practice and public health, including responses to antimicrobial resistance and emerging infectious diseases.  
 
 ##  Professor Matt Brown
 

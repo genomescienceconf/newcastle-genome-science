@@ -6,7 +6,7 @@ use-site-title: true
 bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 ---
 
-# Confirmed Academic Speaker List
+## Confirmed academic presentations:
 
 - __Richard Durbin (University of Cambridge)__ [Keynote]
 - __Matt Brown (Chief Scientific Officer, Genomics England)__ [Keynote]
@@ -17,7 +17,7 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 - __Antonio Fernandez Guerra (University of Copenhagen)__ [Microbes and Microbiomes]
 - __Peter Holland (University of Oxford)__[Evolutionary Genomics]
 
-# Confirmed Industrial Speaker List
+## Confirmed industry presentations: 
 
 - __Jason Betley (Illumina)__ [Evolving Technologies]
 - __Shawn Levy (CSO, Element Biosciences)__ [Evolving Technologies]
