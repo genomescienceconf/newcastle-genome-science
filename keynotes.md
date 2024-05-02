@@ -33,10 +33,7 @@ He has made contributions to the development of gene-mapping approaches in human
 Professor Brown was elected a Fellow of the Australian Academy of Sciences in recognition for his achievements in genetics research. He still practises medicine, in the specialty of rheumatology, with a particular focus on axial spondyloarthropathies.
 
 
-## Dr Lucy Burkitt-Grey 
+## Dr Lucy Burkitt-Gray
 ![Lucy Burkitt-Gray ](/assets/img/Lucy-Burkitt-Grey.jpg){:width="250" style="float: left; padding: 15px"}
 
-Lucy Burkitt-Gray leads a team of Data Analysts and Bioinformaticians based at the headquarters of UK Biobank in Manchester, UK. Lucy moved to UK Biobank in 2019, and has since worked to deliver to the public large new datasets such as whole exome and whole genome sequencing of UK Biobank's 500,000 participants. Lucy is passionate about widening access to highly valuable research cohorts, and as such is proud to be part of the transformation of the UK Biobank resource onto their cloud-based Research Analysis Platform. Lucy has a PhD in Computational Infection Biology from University College Dublin, and an MA in Natural Sciences from the University of Cambridge. 
-
-
-
+Lucy Burkitt-Gray leads a team of Data Analysts and Bioinformaticians based at the headquarters of UK Biobank in Manchester, UK. Lucy moved to UK Biobank in 2019, and has since worked to deliver to the public large new datasets such as whole exome and whole genome sequencing of UK Biobank's 500,000 participants. Dr Burkitt-Gray is passionate about widening access to highly valuable research cohorts, and as such is proud to be part of the transformation of the UK Biobank resource onto their cloud-based Research Analysis Platform. Dr Burkitt-Gray has a PhD in Computational Infection Biology from University College Dublin, and an MA in Natural Sciences from the University of Cambridge. 

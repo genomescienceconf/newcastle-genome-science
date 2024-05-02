@@ -10,7 +10,7 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 
 - __Richard Durbin (University of Cambridge)__ [Keynote]
 - __Matt Brown (Chief Scientific Officer, Genomics England)__ [Keynote]
-- __Lucy Birkitt-Gray (500k Genomes Project)__ [Human & Clinical Genomics]
+- __Lucy Burkitt-Gray (UK Biobank)__ [Human & Clinical Genomics]
 - __Deborah Williamson (UK Health Security Agency)__ [Microbes and Microbiomes]
 - __Sandi Deans (University of Edinburgh)__ [Human & Clinical Genomics]
 - __Mike Hubank (The Royal Marsden NHS Foundation Trust)__ [Human & Clinical Genomics]
