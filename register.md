@@ -19,18 +19,18 @@ There are various registration options - some are time limited so sign up soon o
 Register here - [EasyBook](https://events.eazybook.com/genomescience2024)
 
 __Deadlines__
-- April 30th, 2024 - Early Bird registration closes
+- May 24th, 2024 - Early Bird registration closes (previously April 30th)
 - May 24th, 2024 - Abstract submissions close
 - June 24th, 2024 - Registration closes
 
 __Abstract Submission__ will follow shortly
 
 Student - Limited Spaces **(NOTE: we will require proof of status when you come to the conference)**: 
-- Student Early Bird (£225) - Available until April 30th, 2024 - __sign up soon__
+- Student Early Bird (£225) - Available until May 24th, 2024 - __sign up soon__
 - Student (£250) - Student Registration Price We will require proof of status when you come to the conference.
 
 Delegate:
-- Early Bird (£260) - Available until April 30th, 2024 - __sign up soon__
+- Early Bird (£260) - Available until May 24th, 2024 - __sign up soon__
 - Delegate (£300) - Our standard delegate rate. Reserved for academics, students, members of the public.
 
 Industry:
