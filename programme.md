@@ -10,19 +10,22 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 
 - __Richard Durbin (University of Cambridge)__ [Keynote]
 - __Matt Brown (Chief Scientific Officer, Genomics England)__ [Keynote]
-- __Lucy Burkitt-Gray (UK Biobank)__ [Human & Clinical Genomics]
-- __Deborah Williamson (UK Health Security Agency)__ [Microbes and Microbiomes]
+- __Lucy Burkitt-Gray (UK Biobank)__ [Keynote]
+- __Deborah Williamson (UK Health Security Agency)__ [Keynote]
 - __Sandi Deans (University of Edinburgh)__ [Human & Clinical Genomics]
 - __Mike Hubank (The Royal Marsden NHS Foundation Trust)__ [Human & Clinical Genomics]
 - __Antonio Fernandez Guerra (University of Copenhagen)__ [Microbes and Microbiomes]
-- __Peter Holland (University of Oxford)__[Evolutionary Genomics]
+- __Peter Holland (University of Oxford)__ [Evolutionary Genomics]
+- __Alan Walker (University of Aberdeen)__ [Microbes and Microbiomes]
+- __Areeba Patel (University of Heidelberg)__ [Epigenetics]
+
 
 ## Confirmed industry presentations: 
 
 - __Jason Betley (Illumina)__ [Evolving Technologies]
 - __Shawn Levy (CSO, Element Biosciences)__ [Evolving Technologies]
+- __Mike Vella (Oxford Nanopore)__ [Evolving Technologies]
 - __PacBio__
-- __ONT__
 - __Ultima__ 
 
 # Provisional Programme
