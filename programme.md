@@ -12,13 +12,18 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 - __Matt Brown (Chief Scientific Officer, Genomics England)__ [Keynote]
 - __Lucy Burkitt-Gray (UK Biobank)__ [Keynote]
 - __Deborah Williamson (UK Health Security Agency)__ [Keynote]
+- __Alex Cagan (University of Cambridge)__[Plant and Animal Genomics]
+- __Gary Barker (University of Bristol)__[Plant and Animal Genomics]
 - __Sandi Deans (University of Edinburgh)__ [Human & Clinical Genomics]
 - __Mike Hubank (The Royal Marsden NHS Foundation Trust)__ [Human & Clinical Genomics]
-- __Antonio Fernandez Guerra (University of Copenhagen)__ [Microbes and Microbiomes]
-- __Peter Holland (University of Oxford)__ [Evolutionary Genomics]
-- __Alan Walker (University of Aberdeen)__ [Microbes and Microbiomes]
 - __Areeba Patel (University of Heidelberg)__ [Epigenetics]
-
+- __Alex de Mendoza (Queen Mary University of London)__ [Epigenetics]
+- __Alex de Mendoza (Queen Mary University of London)__ [Epigenetics]
+- __Peter Holland (University of Oxford)__ [Evolutionary Genomics]
+- __Sandra Álvarez Carretero (University College London)__ [Evolutionary Genomics]
+- __Alan Walker (University of Aberdeen)__ [Microbes and Microbiomes]
+- __Lauren Cowley (University of Bath)__ [Microbes and Microbiomes]
+- __Alexandre Almeida (Cambridge Veterinary School)__ [Microbes and Microbiomes]
 
 ## Confirmed industry presentations: 
 
