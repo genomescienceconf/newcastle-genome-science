@@ -18,12 +18,12 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 - __Mike Hubank (The Royal Marsden NHS Foundation Trust)__ [Human & Clinical Genomics]
 - __Areeba Patel (University of Heidelberg)__ [Epigenetics]
 - __Alex de Mendoza (Queen Mary University of London)__ [Epigenetics]
-- __Alex de Mendoza (Queen Mary University of London)__ [Epigenetics]
 - __Peter Holland (University of Oxford)__ [Evolutionary Genomics]
 - __Sandra Álvarez Carretero (University College London)__ [Evolutionary Genomics]
 - __Alan Walker (University of Aberdeen)__ [Microbes and Microbiomes]
 - __Lauren Cowley (University of Bath)__ [Microbes and Microbiomes]
 - __Alexandre Almeida (Cambridge Veterinary School)__ [Microbes and Microbiomes]
+- __Jimmy Lee (Wellcome Sanger Institute)__ [Single Cell & Spatial Genomics]
 
 ## Confirmed industry presentations: 
 
@@ -81,6 +81,6 @@ __Start__|__End__|__Session__
 
 __Start__|__End__|__Session__
 -------|-------|-------|-------
-**_9:00_** | **_11:00_**|__Single Cell Genomics__
+**_9:00_** | **_11:00_**|__Single Cell & Spatial Genomics__
 **_11:30_** | **_12:30_**|__Keynotes__
 **_13:00_** | **_THE END_**|__Lunch and leaving__
