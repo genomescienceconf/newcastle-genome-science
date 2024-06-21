@@ -23,7 +23,7 @@ navbar-links:
   Home: "index"
   Register: "register"
   Speakers: "keynotes"
-  Programme: "programme"
+  Programme: "programme_update"
   Venue: "venue"
 #  Dinner: "dinner"
 #  Abstracts: "abstracts"
