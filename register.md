@@ -22,7 +22,7 @@ __Deadlines__
 - May 24th, 2024 - Early Bird registration closes (previously April 30th)
 - June 13th, 2024 - University accomodation option closes.
 - June 16th, 2024 - Abstract submissions close (previously 24th May)
-- June 24th, 2024 - Registration closes
+- June 26th, 2024 - Registration closes (previously 24th June)
 
 __Abstract Submission__ will follow shortly
 
