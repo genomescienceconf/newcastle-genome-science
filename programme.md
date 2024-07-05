@@ -6,7 +6,7 @@ use-site-title: true
 bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 ---
 
-### Provisional Programme
+### Programme
 
-Download here to learn more - [Programme](../assets/img/Programme.pdf)
+Download here - [Programme](../assets/img/Programme.pdf)
 
