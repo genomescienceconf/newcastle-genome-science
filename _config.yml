@@ -23,12 +23,12 @@ navbar-links:
   Home: "index"
   Register: "register"
   Speakers: "keynotes"
-  Programme: "programme_live"
+  Programme: "programme"
   Venue: "venue"
-#  Dinner: "dinner"
+  Travel: "travel"
 #  Abstracts: "abstracts"
   Organisers: "committee"
-  Accessibility: "access"
+#  Accessibility: "access"
 #  Sponsors: "sponsors"
 
 ################
