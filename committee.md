@@ -16,5 +16,5 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 * Mike Quail, Wellcome Trust Sanger Institute
 * Lia Chappell, Wellcome Trust Sanger Institute
 * Jonathan Coxhead, Newcastle University
-
-
+* Ania Piskorz,  CRUK Cambridge Institute University of Cambridge
+* Al Darby, University of Liverpool
