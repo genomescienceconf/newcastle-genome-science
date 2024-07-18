@@ -21,15 +21,16 @@ author: Sion Bayliss
 
 navbar-links:
   Home: "index"
-  Register: "register"
+  #Register: "register"
   Speakers: "keynotes"
   Booklet: "info_and_abstracts"
   Programme: "programme"
   Venue: "venue"
-  Travel: "travel"
+  #Travel: "travel"
   Organisers: "committee"
 #  Accessibility: "access"
 #  Sponsors: "sponsors"
+  Group Photo: "group-photo"
 
 ################
 # --- Logo --- #
