@@ -14,7 +14,7 @@ Genome Science will take place at the Chemistry Building of University of Bristo
 
 ![Palm Temple](/assets/img/chemistry-2.jpg){:width="800" style="padding: 10px"} -->
 
-## Dinner Venue - Bristol Harbour Hotel
+## Dinner Venue - 
 
 <!-- ![Tables](/assets/img/dinner3.jpg){:width="800" style="padding: 10px"}
 
