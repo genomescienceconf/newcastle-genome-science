@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Genome Science Conference 2024 - Bristol
+title: Genome Science Conference 2025 - Newcastle
 
 # Your name to show in the footer
-author: Sion Bayliss
+author: Jonathon Coxhead
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,7 +21,7 @@ author: Sion Bayliss
 
 navbar-links:
   Home: "index"
-  #Register: "register"
+  Register: "register"
   Speakers: "keynotes"
   Booklet: "info_and_abstracts"
   Programme: "programme"
@@ -30,7 +30,7 @@ navbar-links:
   Organisers: "committee"
 #  Accessibility: "access"
 #  Sponsors: "sponsors"
-  Group Photo: "group-photo"
+#  Group Photo: "group-photo"
 
 ################
 # --- Logo --- #
