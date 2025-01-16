@@ -8,7 +8,7 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 
 # Registration
 
-## Abstract Submission 
+<!-- ## Abstract Submission 
 
 Abstract submission is now open for short talks and poster presentations at Genome Science 2024. Register your interest via the [Abstract Submission Portal](https://www.genomescienceconference.com/). Note that this is separate from the registering for the conference (see below). Registration will be a requirement for accepted presentations.
 
@@ -45,3 +45,4 @@ The conference dinner will take place in the Harbour Hotel, Bristol. This is a t
 ## Accommodation
 We are offering campus accommodation at [@33](https://www.bristol.ac.uk/accommodation/about/residences/accommodation-at-thirty-three/) for £60 per night (ensuite) or at [Goldney Hall](https://www.bristol.ac.uk/accommodation/about/residences/goldney/) at £55 per night (shared facilities + breakfast). This can be purchased during registration (Note: this option closes on June 13th). The registration webpage also provides other alternative external accommodation choices. 
 
+ -->

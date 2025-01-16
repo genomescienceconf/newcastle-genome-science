@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genome Science
-subtitle: Bristol, July 16-18th
+subtitle: Newcastle, Date
 use-site-title: true
 bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 ---
