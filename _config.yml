@@ -20,17 +20,15 @@ author: Jonathon Coxhead
 ###############################################
 
 navbar-links:
-  - [ "Home", "index" ]
-  - [ "Register", "register" ]
-  - [ "Programme", 
-      [
-        [ "Keynote Speakers", "keynotes" ],
-        [ "Download Programme", "programme" ],
-        [ "Abstract Booklet", "info_and_abstracts" ]
-      ]
-    ]
-  - [ "Venue", "venue" ]
-  - [ "Organisers", "committee" ]
+  - ["Home", "index"]
+  - ["Register", "register"]
+  - ["Programme", [
+      ["Keynote Speakers", "keynotes"],
+      ["Download Programme", "programme"],
+      ["Abstract Booklet", "info_and_abstracts"]
+    ]]
+  - ["Venue", "venue"]
+  - ["Organisers", "committee"]
 
 
 
