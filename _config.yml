@@ -22,11 +22,11 @@ author: Jonathon Coxhead
 navbar-links:
   - ["Home", "index"]
   - ["Register", "register"]
-  - ["Programme", [
+  - ["Programme", 
       ["Keynote Speakers", "keynotes"],
       ["Download Programme", "programme"],
       ["Abstract Booklet", "info_and_abstracts"]
-    ]]
+    ]
   - ["Venue", "venue"]
   - ["Organisers", "committee"]
 
