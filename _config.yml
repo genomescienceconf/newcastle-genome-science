@@ -25,13 +25,15 @@ navbar-links:
     - text: "Register"
       href: register
     - text: "Programme"
-      menu:       
-        - text: "Keynote Speakers"
-          href: keynotes
-        - text: "Download Programme"
-          href: programme
-        - text: "Abstract booklet"
-          href: info_and_abstracts
+      menu: 
+          dropdown: true
+          items:
+              - text: "Keynote Speakers"
+              href: keynotes
+              - text: "Download Programme"
+              href: programme
+              - text: "Abstract booklet"
+              href: info_and_abstracts
     - text: "Venue"
       href: venue      
     - text: "Organisers"
