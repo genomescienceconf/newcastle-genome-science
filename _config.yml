@@ -19,16 +19,36 @@ author: Jonathon Coxhead
 # --- List of links in the navigation bar --- #
 ###############################################
 
+
 navbar-links:
-  - ["Home", "index"]
-  - ["Register", "register"]
-  - ["Speakers & Programme", [
-      [Keynote Speakers, "keynotes"],
-      [Download Programme, "programme"],
-      [Abstract Booklet, "info_and_abstracts"]
-    ]]
-  - ["Venue", "venue"]
-  - ["Organisers", "committee"]
+  - text: "Home"
+    href: "index"
+  - text: "Register"
+    href: "register"
+  - text: "Programme"
+    menu:
+      - text: "Keynote Speakers"
+        href: "keynotes"
+      - text: "Download Programme"
+        href: "programme"
+      - text: "Abstract Booklet"
+        href: "info_and_abstracts"
+  - text: "Venue"
+    href: "venue"
+  - text: "Organisers"
+    href: "committee"
+
+
+# navbar-links:
+#   - ["Home", "index"]
+#   - ["Register", "register"]
+#   - ["Speakers & Programme", [
+#       [Keynote Speakers, "keynotes"],
+#       [Download Programme, "programme"],
+#       [Abstract Booklet, "info_and_abstracts"]
+#     ]]
+#   - ["Venue", "venue"]
+#   - ["Organisers", "committee"]
 
 
 
