@@ -8,5 +8,5 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 
 ### Programme
 
-Download here - [Programme](../assets/img/Programme.pdf)
+<!-- Download here - [Programme](../assets/img/Programme.pdf) -->
 
