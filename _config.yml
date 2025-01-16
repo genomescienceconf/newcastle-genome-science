@@ -20,21 +20,6 @@ author: Jonathon Coxhead
 ###############################################
 
 navbar-links:
-  Home: "index"
-  Register: "register"
-  Speakers: "keynotes"
-  # Booklet: "info_and_abstracts"
-  Programme: "programme"
-  Venue: "venue"
-  #Travel: "travel"
-  Organisers: "committee"
-#  Accessibility: "access"
-#  Sponsors: "sponsors"
-#  Group Photo: "group-photo"
-
-
-
-navbar-links:
     - text: "Home"
       href: index
     - text: "Register"
@@ -51,8 +36,6 @@ navbar-links:
       href: venue      
     - text: "Organisers"
       href: committee
-
-
 
 
 
